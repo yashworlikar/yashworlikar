@@ -21,4 +21,4 @@ I also write technical blogs and share project insights at [Systenics.ai](https:
 
 ## Git Stats
 
-![BrutalCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashworlikar&show_icons=true&theme=gruvbox&count_private=true)
+![Yashworlikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashworlikar&show_icons=true&theme=gruvbox&count_private=true)
