@@ -17,3 +17,8 @@ Welcome to my GitHub! I’m a software developer with over 2 years of experience
 ### 📚 Blogs & Articles
 
 I also write technical blogs and share project insights at [Systenics.ai](https://systenics.ai/).
+
+
+## Git Stats
+
+![BrutalCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashworlikar&show_icons=true&theme=gruvbox&count_private=true)
