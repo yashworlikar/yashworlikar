@@ -17,9 +17,3 @@ Welcome to my GitHub! I’m a software developer with over 2 years of experience
 ### 📚 Blogs & Articles
 
 I also write technical blogs and share project insights at [Systenics.ai](https://systenics.ai/).
-
-### 📧 Contact
-
-- **Email**: [yashworlikar20@gmail.com](mailto:yashworlikar20@gmail.com)
-- **GitHub**: [github.com/yash-Worlikar](https://github.com/yash-Worlikar)
-- **LinkedIn**: [linkedin.com/in/yashworlikar](https://linkedin.com/in/yashworlikar)
