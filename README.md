@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m a software developer with over 2 years of experience
 - **Databases**: PostgreSQL, MSSQL Server, QuadrantDB, ChromaDB
 - **Cloud & DevOps**: Azure (AI Studio, Blob Storage, Container Services), Docker, CI/CD pipelines
 - **Tools**: SignalR, Dapper, Application Insights, Azure OpenAI
-- 
+
 ### 🔍 Current Work
 
 - Leading AI integration at **Systenics Solutions**.
